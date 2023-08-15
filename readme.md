@@ -1,2 +1,1 @@
-# Git first steps
-hi
+# git-first-step
